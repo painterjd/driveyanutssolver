@@ -1,5 +1,8 @@
 Drive Ya Nuts Solver
 ====================
+
+![Image of Game](https://raw.githubusercontent.com/painterjd/driveyanutssolver/master/driveyanuts.jpg)
+
 This program was the result of a weekend with family goofing off with the 
 Drive Ya Nuts game. I thought I would throw together a quick solver to 
 check for all possible solutions (there's only one). 
