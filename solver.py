@@ -2,7 +2,6 @@
 
 import collections
 import itertools
-import random
 
 """
 This program solves the Drive Ya Nuts puzzle game introduced in 1970
